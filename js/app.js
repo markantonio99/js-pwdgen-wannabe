@@ -5,12 +5,11 @@ titleEelement.innerHTML= "benvenuti"
 
 
 
+let nome= prompt('Come ti chiami?')
 
-nome= prompt('Come ti chiami?')
+let cognome= prompt('E il tuo cognome?')
 
-cognome= prompt('E il tuo cognome?')
-
-colore= prompt("Il tuo colore preferito?")
+let colore= prompt("Il tuo colore preferito?")
 
  
 
